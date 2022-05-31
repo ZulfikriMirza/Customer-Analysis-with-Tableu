@@ -11,4 +11,5 @@
 - Revenue per Category per Gender
 - Build the Dashboard
 
-![alt text](https://github.com/ZulfikriMirza/Customer-Analysis-with-Tableu/blob/main/Dashboard Preview.PNG?raw=true)
+![alt text](https://github.com/ZulfikriMirza/Customer-Analysis-with-Tableu/blob/main/Dashboard%20Preview.PNG?raw=true)
+
